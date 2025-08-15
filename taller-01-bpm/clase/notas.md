@@ -1,7 +1,8 @@
-# 🗒️ Registro de Trabajo en Clase - Taller BPMN
+# 🗒️ Registro de Trabajo en Clase - Taller 1
 
 ## 📆 Fecha de la sesión
-_9 de agosto de 2025._
+
+9 de agosto de 2025
 
 ## 👥 Integrantes presentes
 - Ana Lucia Quintero Vargas (anaquiva@unisabana.edu.co)
@@ -29,8 +30,8 @@ Inicialmente se usó el tablero del salón para establecer los roles principales
 
 Se logró modelar el boceto inicial del proceso de agendamiento de citas médicas, desde el ingreso del paciente a la plataforma hasta la confirmación de la cita por medio del sistema de notificación. Se identificaron los actores involucrados, se definieron sus responsabilidades y se diagramó el flujo principal con sus respectivas decisiones e interacciones.
 
-
 ## 🧩 Boceto inicial del modelo
+
 <img width="1874" height="670" alt="image" src="https://github.com/user-attachments/assets/ad51e775-dba0-493f-b0d0-7e26f0b85c9b" />
 
 Este modelo inicial representa un bosquejo general del proceso de agendamiento de citas médicas, incluyendo las actividades básicas que realiza el paciente (como ingresar a la plataforma, seleccionar especialidad, médico y fecha), y las funciones principales del sistema de citas, como consultar disponibilidad, registrar la cita o notificar la no disponibilidad. También se contempla el envío de confirmación a través del sistema de notificación. 
