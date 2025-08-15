@@ -1,12 +1,15 @@
-# 🗒️ Registro de Trabajo en Clase - Taller X
+# 🗒️ Registro de Trabajo en Clase - Taller 1
 
 ## 📆 Fecha de la sesión
 _Indique la fecha de la clase en que se trabajó este taller._
 
 ## 👥 Integrantes presentes
-- Nombre 1
-- Nombre 2
-- Nombre 3
+- Ana Lucia Quintero Vargas (anaquiva@unisabana.edu.co)
+- Juan David Cetina Gómez (juancego@unisabana.edu.co)
+- Carlos Augusto Sánchez Lombana (carlossanlo@unisabana.edu.co)
+- Mateo de Jesus Vanegas Correa (mateovaco@unisabana.edu.co)
+- Diego Fernández Ramírez Tenjo (diegorate@unisabana.edu.co)
+- Mariana Salas Gutiérrez (marianasalgu@unisabana.edu.co)
 
 ## 🧠 Actividades realizadas en clase
 

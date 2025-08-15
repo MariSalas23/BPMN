@@ -1,12 +1,15 @@
 # 📄 Informe Técnico del Taller
 
 ## 🔖 Nombre del Taller
-_Taller X - [Nombre completo del taller]_
+Taller 1 - BPMN
 
 ## 👥 Integrantes del equipo
-- Nombre 1 (correo o usuario GitHub)
-- Nombre 2
-- Nombre 3
+- Ana Lucia Quintero Vargas (anaquiva@unisabana.edu.co)
+- Juan David Cetina Gómez (juancego@unisabana.edu.co)
+- Carlos Augusto Sánchez Lombana (carlossanlo@unisabana.edu.co)
+- Mateo de Jesus Vanegas Correa (mateovaco@unisabana.edu.co)
+- Diego Fernández Ramírez Tenjo (diegorate@unisabana.edu.co)
+- Mariana Salas Gutiérrez (marianasalgu@unisabana.edu.co)
 
 ## 🧠 Descripción general del trabajo
 Describa brevemente el objetivo del taller y cómo se desarrolló la actividad.
