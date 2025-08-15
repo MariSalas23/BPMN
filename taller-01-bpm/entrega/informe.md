@@ -14,6 +14,11 @@ Taller 1 - BPMN
 ## 🧠 Descripción general del trabajo
 Describa brevemente el objetivo del taller y cómo se desarrolló la actividad.
 
+El presente taller tiene como objetivo modelar un proceso de negocio real, en este caso, de un hospital, utilizando la notación BPMN, identificando de forma clara los eventos, actividades, decisiones, actores y puntos críticos del flujo.
+
+Para desarrollar esta actividad, la primera parte se realizó durante la clase, mientras que la otra en tiempo extracurricular. En la sesión de clase, utilizando marcadores y tablero, se definieron los actores, actividades y decisiones en el proceso de agendamiento de citas de La Clínica Salud Viva (caso base). Después, se modeló el proceso en la herramienta draw.io, escogida por permitir el trabajo colaborativo en tiempo real. Adicionalmente, para modelar correctamente los procesos, se investigó acerca de las buenas prácticas de BPMN. Posteriormente, se aplicó la misma metodología al proceso real del cliente asignado, correspondiente al proceso de entrega de resultados de laboratorio. Este, trata desde la realización del examen hasta la entrega de resultados al paciente y al médico
+tratante, incluyendo retrasos por desconexión de sistemas. Finalmente, se documentó el trabajo en los informes correspondientes, describiendo el proceso, presentando y analizando el modelo final, y destacando las diferencias con el caso base.
+
 ## 🔧 Proceso de desarrollo
 Explique cómo realizaron el trabajo: qué decisiones tomaron, qué herramientas utilizaron, qué aspectos modelaron primero y cómo lo fueron ajustando.
 
@@ -30,11 +35,13 @@ Incluya un análisis sobre:
 
 | Nombre del elemento | Tipo | Descripción | Responsable |
 |---------------------|------|-------------|-------------|
+| Paciente        | Actor | Usuario que agenda una cita médica | Cliente |
+| Ej: Paciente        | Actor | Usuario que agenda una cita médica | Cliente |
 | Ej: Paciente        | Actor | Usuario que agenda una cita médica | Cliente |
 
 ## 🔍 Investigación complementaria
-### Tema investigado:
-(Ej: Buenas prácticas BPMN, comparación TOGAF vs C4, principios de seguridad STRIDE, etc.)
+### Buenas prácticas BPMN:
+...
 
 ### Resumen:
 Describa en 2–3 párrafos lo investigado, citando fuentes cuando sea necesario. Incluya cómo se relaciona con el taller.
@@ -45,4 +52,4 @@ Describa en 2–3 párrafos lo investigado, citando fuentes cuando sea necesario
 
 ---
 
-_Este documento hace parte de la entrega del taller X del curso AREM (Arquitectura Empresarial) - Universidad de La Sabana._
+_Este documento hace parte de la entrega del taller 1 del curso AREM (Arquitectura Empresarial) - Universidad de La Sabana._
