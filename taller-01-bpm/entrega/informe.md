@@ -67,7 +67,7 @@ Al inicio, se definieron los agentes del caso base. Después, se definieron los 
         6. Médico tratante.
         5. Base de datos.
         
-        - Actividades principales: 
+    - Actividades principales: 
         1. Solicitar cita de examen (Verificar agenda, agendar cita, notificar cita).
         2. Recolectar muestra (Recibir al paciente, etiquetar y registrar muestra).
         3. Procesar muestra.
