@@ -51,15 +51,20 @@ Enlace al modelo final: https://drive.google.com/file/d/1BJv5aFeUThF4R61ce-uZ2Sm
 | Base de datos       | Entidad | Lleva el registro de los laboratorios | Área de TI |
 
 ## 🔍 Investigación complementaria
-### Buenas prácticas BPMN:
-...
+### Buenas prácticas BPMN en el modelado de procesos de negocio:
+Al modelar procesos con BPMN, el objetivo principal es poder crear un lenguaje visual que cualquier persona pueda comprender. Esto requiere la adopción de buenas prácticas que son fundamentales para lograr un modelado efectivo y profesional.
 
 ### Resumen:
-Describa en 2–3 párrafos lo investigado, citando fuentes cuando sea necesario. Incluya cómo se relaciona con el taller.
+La investigación se centró en las buenas prácticas de BPMN, las cuales buscan convertir el modelado en una herramienta de comunicación efectiva. Se identificaron cuatro principios clave: la simplicidad, que sugiere evitar la complejidad excesiva en un solo diagrama; el uso correcto de la notación estandarizada, que diferencia con precisión los elementos del modelo; la coherencia visual, que ayuda a organizar el flujo para una lectura intuitiva; y la orientación hacia el lector, que exige que el modelo sea comprensible para cualquier persona sin conocimiento previo del proceso. La aplicación de estas prácticas es común en la industria, con ejemplos notables en el sector de la salud, donde se utilizan para mapear flujos críticos como la entrega de resultados de laboratorio, así como en la banca y la logística, para coordinar la participación de varios actores en un mismo proceso.
+
+En el contexto del taller, se hizo un esfuerzo consciente por aplicar estas prácticas al modelar el proceso de entrega de resultados de laboratorio. Se priorizó la claridad, identificando a los actores en carriles separados para una asignación clara de responsabilidades. Además, se procuró el uso apropiado de la notación, empleando gateways para las decisiones lógicas y eventos intermedios de temporizador para representar las esperas en el proceso, como la del paciente antes de la cita o la del sistema ante una desconexión. La coherencia visual, que se logró con un flujo de izquierda a derecha, fue fundamental para que el diagrama fuera fácil de seguir. El proyecto, en su conjunto, demostró que estas buenas prácticas son cruciales para crear diagramas BPMN que realmente aportan valor, transformándolos en herramientas útiles para el análisis de procesos de negocio.
 
 ## 📚 Referencias
-- [1] Apellido, Nombre. *Título*. Año. URL o DOI.
-- [2] Fuente oficial BPMN: https://www.omg.org/spec/BPMN/
+- [1] Dekhane, Anvita. *Dos and don'ts for process modeling*. 2025. https://www.uipath.com/community-blog/tutorials/dos-and-donts-for-process-modeling.
+- [2] Trisotech. *BPMN Modeling Best Practices*. s. f. https://www.trisotech.com/bpmn-modeling-best-practices/.
+- [3] Mathenge, Joseph. *Business Process Modeling Notation (BPMN): Getting Started with Visualization*. 2020. https://www.bmc.com/blogs/bpmn-business-process-modeling-notation.
+- [4] Cardarello, Rafaela. *Buenas prácticas en BPMN*. s. f. https://qflowbpm.com/es/bpmn-mejores-practicas-2/.
+- [5] BPMN Resources. *BPMN in Practice: Real-world examples and case studies*. s. f. https://bpmn.page/article/BPMN_in_practice_Realworld_examples_and_case_studies.html.
 
 ---
 
