@@ -41,10 +41,10 @@ Este modelo inicial representa un bosquejo general del proceso de agendamiento d
 | Tarea asignada | Responsable | Fecha estimada |
 |----------------|-------------|----------------|
 | Modelado final en draw.io | Ana Lucía Quintero Vargas | 12/08 |
-| Análisis del modelo | Mariana Salas Gutierrez | 14/08 |
-| Investigación y referencias | Diego Fernando Ramirez Tenjo | 13/08 |
+| Redacción de informe.md | Mariana Salas Gutierrez | 15/08 |
+| Investigación y referencias | Diego Fernando Ramirez Tenjo | 11/08 |
 | Redacción del informe de notas | Carlos Augusto Sánchez Lombana | 13/08 |
-| Redacción de informe.md | Mateo de Jesús Vanegas Correa | 12/08 |
+| Redacción de informe.md | Mateo de Jesús Vanegas Correa | 15/08 |
 | Investigación y referencias | Juan David Cetina Gómez | 11/08 |
 ---
 
