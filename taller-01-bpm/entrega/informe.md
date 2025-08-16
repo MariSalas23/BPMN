@@ -36,8 +36,9 @@ Enlace al modelo final: https://drive.google.com/file/d/1BJv5aFeUThF4R61ce-uZ2Sm
 | Nombre del elemento | Tipo | Descripción | Responsable |
 |---------------------|------|-------------|-------------|
 | Paciente        | Actor | Usuario que agenda una cita médica | Cliente |
-| Sistema de citas        | Entidad | Plataforma que gestiona las citas, lleva el registro y validación de solicitudes | Área de TI |
-| Sistemas de notificación        | Entidad | Envía confirmaciones y recordatorios al paciente por correo electrónico o SMS | Área de TI |
+| Sistema de citas        | Componente | Plataforma que gestiona las citas | Área de TI |
+| Sistemas de notificación        | Componente | Envía confirmaciones y recordatorios al paciente por correo electrónico o SMS | Área de TI |
+| Base de datos       | Entidad | Lleva el registro de las citas | Área de TI |
 
 **Proceso de entrega de resultados de laboratorio**
 
@@ -45,8 +46,9 @@ Enlace al modelo final: https://drive.google.com/file/d/1BJv5aFeUThF4R61ce-uZ2Sm
 |---------------------|------|-------------|-------------|
 | Paciente        | Actor | Usuario que se realiza el examen y recibe los resultados | Cliente |
 | Personal del laboratorio        | Actor | Encargado de procesar las muestras, validar resultados y registrarlos en el sistema | Clínica Salud Viva |
-| Sistema de laboratorio        | Entidad| Plataforma que almacena y gestiona los resultados de los exámenes | Área de TI |
-| Médico tratante       | Entidad | Profesional que interpreta los resultados y atiende al paciente | Clínica Salud Viva |
+| Sistema de laboratorio        | Componente | Plataforma que almacena y gestiona los resultados de los exámenes | Área de TI |
+| Médico tratante       | Actor | Profesional que interpreta los resultados y atiende al paciente | Clínica Salud Viva |
+| Base de datos       | Entidad | Lleva el registro de los laboratorios | Área de TI |
 
 ## 🔍 Investigación complementaria
 ### Buenas prácticas BPMN:
