@@ -27,15 +27,19 @@ Incluya un análisis sobre:
 - Qué supuestos se tomaron
 
 ## 📈 Diagrama final entregado
-> (Inserte aquí una imagen o enlace al modelo-final.drawio / .asta / PDF)
+Enlace al modelo final: https://drive.google.com/file/d/1BJv5aFeUThF4R61ce-uZ2SmcK3yexryq/view?usp=sharing
 
 ## 📋 Tabla de actores, entidades o componentes (si aplica)
+
+**Caso base**
 
 | Nombre del elemento | Tipo | Descripción | Responsable |
 |---------------------|------|-------------|-------------|
 | Paciente        | Actor | Usuario que agenda una cita médica | Cliente |
 | Sistema de citas        | Entidad | Plataforma que gestiona las citas, lleva el registro y validación de solicitudes | Área de TI |
 | Sistemas de notificación        | Entidad | Envía confirmaciones y recordatorios al paciente por correo electrónico o SMS | Área de TI |
+
+**Proceso de entrega de resultados de laboratorio**
 
 | Nombre del elemento | Tipo | Descripción | Responsable |
 |---------------------|------|-------------|-------------|
