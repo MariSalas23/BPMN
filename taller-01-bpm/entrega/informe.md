@@ -1,7 +1,7 @@
 # 📄 Informe Técnico del Taller
 
 ## 🔖 Nombre del Taller
-Taller 1 - BPMN
+_Taller 1 - BPMN_
 
 ## 👥 Integrantes del equipo
 - Ana Lucia Quintero Vargas (anaquiva@unisabana.edu.co)
