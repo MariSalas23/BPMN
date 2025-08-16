@@ -34,8 +34,15 @@ Incluya un análisis sobre:
 | Nombre del elemento | Tipo | Descripción | Responsable |
 |---------------------|------|-------------|-------------|
 | Paciente        | Actor | Usuario que agenda una cita médica | Cliente |
-| Ej: Paciente        | Actor | Usuario que agenda una cita médica | Cliente |
-| Ej: Paciente        | Actor | Usuario que agenda una cita médica | Cliente |
+| Sistema de citas        | Entidad | Plataforma que gestiona las citas, lleva el registro y validación de solicitudes | Área de TI |
+| Sistemas de notificación        | Entidad | Envía confirmaciones y recordatorios al paciente por correo electrónico o SMS | Área de TI |
+
+| Nombre del elemento | Tipo | Descripción | Responsable |
+|---------------------|------|-------------|-------------|
+| Paciente        | Actor | Usuario que se realiza el examen y recibe los resultados | Cliente |
+| Personal del laboratorio        | Actor | Encargado de procesar las muestras, validar resultados y registrarlos en el sistema | Clínica Salud Viva |
+| Sistema de laboratorio        | Entidad| Plataforma que almacena y gestiona los resultados de los exámenes | Área de TI |
+| Médico tratante       | Entidad | Profesional que interpreta los resultados y atiende al paciente | Clínica Salud Viva |
 
 ## 🔍 Investigación complementaria
 ### Buenas prácticas BPMN:
