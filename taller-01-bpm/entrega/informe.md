@@ -34,14 +34,14 @@ Al inicio, se definieron los agentes del caso base. Después, se definieron los 
 ## 🧩 Análisis del modelo propuesto
 - ¿Cómo se estructura el modelo entregado?
 
-**Caso base**
+    **Caso base**
 
     - Agentes y entidades:
         1. Paciente.
         2. Sistema de citas médicas.
         3. Sistema de notificación.
         4. Base de datos.
-    
+        
     - Actividades principales: 
         1. Solicitar cita médica (Seleccionar especialidad, seleccionar médico, indicar fecha/hora).
         2. Verificar disponibilidad.
@@ -58,7 +58,7 @@ Al inicio, se definieron los agentes del caso base. Después, se definieron los 
         2. ¿Notificación enviada con éxito? (Exclusivo, ✕).
         3. ¿Intentar con otras opciones? (Exclusivo, ✕).
 
-**Proceso de entrega de resultados de laboratorio**
+    **Proceso de entrega de resultados de laboratorio**
 
     - Agentes y entidades:
         1. Paciente.
@@ -66,8 +66,8 @@ Al inicio, se definieron los agentes del caso base. Después, se definieron los 
         3. Personal de laboratorio.
         6. Médico tratante.
         5. Base de datos.
-    
-    - Actividades principales: 
+        
+        - Actividades principales: 
         1. Solicitar cita de examen (Verificar agenda, agendar cita, notificar cita).
         2. Recolectar muestra (Recibir al paciente, etiquetar y registrar muestra).
         3. Procesar muestra.
@@ -96,18 +96,18 @@ Por otra lado, en el caso del laboratorio, las necesidades del cliente son: reco
 
 Para el caso base, se toman los siguientes supuestos:
 
-    1. La base de datos cuenta con información acerca de los médicos, sus especialidades y horarios disponibles.
-    2. El paciente puede cambiar especialidad/médico/fecha si no hay cupo.
-    3. El paciente proporciona datos de contacto válidos.
-    4. El flujo cubre creación de cita, no su modificación o cancelación.
+1. La base de datos cuenta con información acerca de los médicos, sus especialidades y horarios disponibles.
+2. El paciente puede cambiar especialidad/médico/fecha si no hay cupo.
+3. El paciente proporciona datos de contacto válidos.
+4. El flujo cubre creación de cita, no su modificación o cancelación.
 
 Por otra parte, para el proceso de entrega de resultados de laboratorio se tienen los siguientes supuestos:
 
-    1. Existe una solicitud válida de examen.
-    2. La muestra se etiqueta con código de barras y se registra antes de procesarse.
-    3. Tras la validación, una compuerta paralela habilita acceso al paciente y envío al médico en forma simultánea.
-    4. El paciente accede a resultados por portal autenticado. El médico recibe notificación y puede consultar.
-    5. No se tienen en cuenta las repeticiones de exámenes de laboratorio por errores o resultados sospechosos.
+1. Existe una solicitud válida de examen.
+2. La muestra se etiqueta con código de barras y se registra antes de procesarse.
+3. Tras la validación, una compuerta paralela habilita acceso al paciente y envío al médico en forma simultánea.
+4. El paciente accede a resultados por portal autenticado. El médico recibe notificación y puede consultar.
+5. No se tienen en cuenta las repeticiones de exámenes de laboratorio por errores o resultados sospechosos.
 
 ## 📈 Diagrama final entregado
 **Enlace al modelo final:** https://drive.google.com/file/d/1BJv5aFeUThF4R61ce-uZ2SmcK3yexryq/view?usp=sharing
