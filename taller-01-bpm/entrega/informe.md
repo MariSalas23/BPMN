@@ -22,9 +22,9 @@ Explique cómo realizaron el trabajo: qué decisiones tomaron, qué herramientas
 
 ## 🧩 Análisis del modelo propuesto
 Incluya un análisis sobre:
-- Cómo se estructura el modelo entregado
-- Cómo representa las necesidades del cliente
-- Qué supuestos se tomaron
+- ¿Cómo se estructura el modelo entregado?
+- ¿Cómo representa las necesidades del cliente?
+- ¿Qué supuestos se tomaron?
 
 ## 📈 Diagrama final entregado
 Enlace al modelo final: https://drive.google.com/file/d/1BJv5aFeUThF4R61ce-uZ2SmcK3yexryq/view?usp=sharing
