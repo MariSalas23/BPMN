@@ -6,11 +6,11 @@
 
 ## 👥 Integrantes presentes
 - Ana Lucia Quintero Vargas (anaquiva@unisabana.edu.co)
-- Juan David Cetina Gómez (juancego@unisabana.edu.co)
 - Carlos Augusto Sánchez Lombana (carlossanlo@unisabana.edu.co)
-- Mateo de Jesus Vanegas Correa (mateovaco@unisabana.edu.co)
 - Diego Fernández Ramírez Tenjo (diegorate@unisabana.edu.co)
+- Juan David Cetina Gómez (juancego@unisabana.edu.co)
 - Mariana Salas Gutiérrez (marianasalgu@unisabana.edu.co)
+- Mateo de Jesus Vanegas Correa (mateovaco@unisabana.edu.co)
 
 ## 🧠 Actividades realizadas en clase
 

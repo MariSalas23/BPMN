@@ -5,11 +5,11 @@ Taller 1 - BPMN
 
 ## 👥 Integrantes del equipo
 - Ana Lucia Quintero Vargas (anaquiva@unisabana.edu.co)
-- Juan David Cetina Gómez (juancego@unisabana.edu.co)
 - Carlos Augusto Sánchez Lombana (carlossanlo@unisabana.edu.co)
-- Mateo de Jesus Vanegas Correa (mateovaco@unisabana.edu.co)
 - Diego Fernández Ramírez Tenjo (diegorate@unisabana.edu.co)
+- Juan David Cetina Gómez (juancego@unisabana.edu.co)
 - Mariana Salas Gutiérrez (marianasalgu@unisabana.edu.co)
+- Mateo de Jesus Vanegas Correa (mateovaco@unisabana.edu.co)
 
 ## 🧠 Descripción general del trabajo
 El presente taller tiene como objetivo modelar un proceso de negocio real, en este caso, de un hospital, utilizando la notación BPMN, identificando de forma clara los eventos, actividades, decisiones, actores y puntos críticos del flujo.
