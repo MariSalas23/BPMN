@@ -9,11 +9,11 @@ _Taller 1 - BPMN_
 
 ## 📚 Referencias utilizadas
 
-1. Dekhane, Anvita. *Dos and don'ts for process modeling*. 2025. https://www.uipath.com/community-blog/tutorials/dos-and-donts-for-process-modeling.  
-2. Trisotech. *BPMN Modeling Best Practices*. s. f. https://www.trisotech.com/bpmn-modeling-best-practices/. 
-3. Mathenge, Joseph. *Business Process Modeling Notation (BPMN): Getting Started with Visualization*. 2020. https://www.bmc.com/blogs/bpmn-business-process-modeling-notation.  
-4. Cardarello, Rafaela. *Buenas prácticas en BPMN*. s. f. https://qflowbpm.com/es/bpmn-mejores-practicas-2/.
-5. BPMN Resources. *BPMN in Practice: Real-world examples and case studies*. s. f. https://bpmn.page/article/BPMN_in_practice_Realworld_examples_and_case_studies.html.
+1. BPMN Resources. *BPMN in Practice: Real-world examples and case studies*. s. f. https://bpmn.page/article/BPMN_in_practice_Realworld_examples_and_case_studies.html.
+2. Cardarello, Rafaela. *Buenas prácticas en BPMN*. s. f. https://qflowbpm.com/es/bpmn-mejores-practicas-2/.
+3. Dekhane, Anvita. *Dos and don'ts for process modeling*. 2025. https://www.uipath.com/community-blog/tutorials/dos-and-donts-for-process-modeling. 
+4. Mathenge, Joseph. *Business Process Modeling Notation (BPMN): Getting Started with Visualization*. 2020. https://www.bmc.com/blogs/bpmn-business-process-modeling-notation.  
+5. Trisotech. *BPMN Modeling Best Practices*. s. f. https://www.trisotech.com/bpmn-modeling-best-practices/. 
 
 ---
 
